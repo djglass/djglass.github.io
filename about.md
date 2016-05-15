@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+All about Dan
 
-### More Information
+### Coming soon
 
-A place to include any other types of information that you'd like to include about yourself.
+Sanitized content about me - coming soon!
 
 ### Contact me
 
